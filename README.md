@@ -11,9 +11,9 @@
   </a> 
 </p>  
 
-- 🔭 I’m currently working on **MERN Stack and AI/ML/DS**  
+- 🔭 I’m currently working on **MERN Stack , JuliaLang and AI/ML/DS**  
 - 🌱 I’m currently learning **Amazon Web Services and DevOps**  
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**  
+- 💬 Ask me about **Node.js, React, python , C, C++ Etc.**  
 - 📫 How to reach me **aryanbajpai499@gmail.com**  
 
 <h3 align="left">🌐 Connect with me:</h3> 
